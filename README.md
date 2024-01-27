@@ -20,7 +20,10 @@ I employed Linear Regression to analyze and predict the relationship between var
 Additionally, the K-Nearest Neighbors algorithm was utilized to make predictions based on the similarity of data points. KNN is a versatile algorithm that doesn't assume a specific structure in the data, making it suitable for various types of datasets.
 
 ## Visualization of models
-![error_ratio](https://github.com/us107/Olympics_medals/blob/main/error.png)
+#### ![error_ratio](https://github.com/us107/Olympics_medals/blob/main/error.png)
+
+### ![KNN_reg](https://github.com/us107/Olympics_medals/blob/main/kn.png)
+
 
 
 ## 🔗 Links
